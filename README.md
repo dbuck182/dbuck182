@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbuck182 or Drew Buck
 - 👀 I’m a Freshman at Haverford College studying computer science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Javascript
 - 📫 dbuck182@gmail.com
 
 <!---
