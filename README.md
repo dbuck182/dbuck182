@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbuck182 or Drew Buck
 - 👀 I’m a Sophmore at Haverford College studying computer science
-- 🌱 I’m currently learning express.js and web development
+- 🌱 I’m currently learning Django and web development
 - 📫 dbuck182@gmail.com
 
 <!---
