@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dbuck182 or Drew Buck
-- 👀 I’m a Sophmore at Haverford College studying computer science
-- 🌱 I’m currently learning Django and web development
+- 👀 I’m an incoming Junior at Haverford College studying computer science
+- I am also pursuing a Masters degree at the University of Pennsylvania. 
+- 🌱 I’m currently learning React and AWS.
 - 📫 dbuck182@gmail.com
 
 <!---
