@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dbuck182 or Drew Buck
 - 👀 I’m an incoming Junior at Haverford College studying computer science
 - I am also pursuing a Masters degree at the University of Pennsylvania. 
-- 🌱 I’m currently learning React and AWS.
+- 🌱 I’m currently building AthLink.
 - 📫 dbuck182@gmail.com
 
 <!---
