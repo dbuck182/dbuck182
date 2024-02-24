@@ -5,6 +5,8 @@
 - Learning App Development and specifically React Native with TypeScript
 - 📫 dbuck182@gmail.com
 
+Personal Portfolio: dbuck182.github.io  
+
 <!---
 dbuck182/dbuck182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
