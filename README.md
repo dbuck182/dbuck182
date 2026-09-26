@@ -1,6 +1,6 @@
 ## Drew Buck
-- I am a current Master's student at the University of Pennsylvania studying Computer and Information Science with a focus on systems.
-- In 2026, I will be joining FTI Consulting as a Software Developer
+- Currently a Software Developer at FTI Consulting
+- I hold a Master's from the University of Pennsylvania in Computer and Information Science with a focus on systems.
 - My interests are mostly within Full Stack Development and Databases. Feel free to reach out!
 - 📫 dbuck182@gmail.com
 
